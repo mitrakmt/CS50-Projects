@@ -1,1 +1,1 @@
-# initials-cs50
+# CS50 Projects by Michael Mitrakos
